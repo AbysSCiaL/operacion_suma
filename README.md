@@ -16,9 +16,6 @@ Este proyecto implementa un script en Python que realiza la suma de dos números
 
 Puedes ejecutar el script desde la línea de comandos o integrarlo como módulo en otros proyectos.
 
-### Ejecución desde la línea de comandos
-
-
 ![Python](https://cdn-icons-png.flaticon.com/512/2/2181.png) 
 
 [Repositorio Github](https://github.com/AbysSCiaL/operacion_suma.git)
