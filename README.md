@@ -8,6 +8,11 @@ Este proyecto implementa un script en Python que realiza la suma de dos números
 - Validación de tipos: solo se permiten números (`int` o `float`).
 - Manejo de errores en caso de entrada inválida.
 
+### Equipo de desarrollo
+| Apellidos y nombres | Rol | 
+| --------------------| ----|
+| Quispe Medina ,Willy | Jefe de proyecto |
+
 ## Requisitos
 
 - Python 3.6 o superior.
@@ -21,8 +26,5 @@ Puedes ejecutar el script desde la línea de comandos o integrarlo como módulo 
 [Repositorio Github](https://github.com/AbysSCiaL/operacion_suma.git)
 
 
-### Equipo de desarrollo
-| Apellidos y nombres | Rol | 
-| --------------------| ----|
-| Quispe Medina ,Willy | Jefe de proyecto |
-| ,| Analista|
+
+
